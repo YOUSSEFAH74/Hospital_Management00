@@ -1,0 +1,14 @@
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.exe
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.deps.json
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.runtimeconfig.json
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.dll
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\bin\Debug\net8.0\Hospital_Management.pdb
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfoInputs.cache
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.AssemblyInfo.cs
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.csproj.CoreCompileInputs.cache
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.dll
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\refint\Hospital_Management.dll
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.pdb
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\Hospital_Management.genruntimeconfig.cache
+C:\Users\youssef Ahmed\source\repos\Hospital_Management\Hospital_Management\obj\Debug\net8.0\ref\Hospital_Management.dll
